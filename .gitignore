@@ -4,3 +4,4 @@
 .vercel
 .omc/
 .claude/
+.env*
