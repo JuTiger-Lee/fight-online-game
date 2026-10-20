@@ -1,0 +1,6 @@
+.godot/
+*.import
+.DS_Store
+.vercel
+.omc/
+.claude/
